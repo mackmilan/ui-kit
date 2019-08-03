@@ -1,3 +1,3 @@
 # UIKit
 
-A description of this package.
+S3PA Components kit.
