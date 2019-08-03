@@ -9,9 +9,9 @@ import Foundation
 
 public class UIElement: NSObject {
    
-   var id: String
+   public var id: String
    
-   init(id: String) {
+   public init(id: String) {
       self.id = id
    }
    
